@@ -20,5 +20,5 @@ Na disciplina GCC259 - Desenvolvimento de Software Livre, eu irei aprender mais 
 
 Links úteis:
 
-* https://campusvirtual.ufla.br/site_campus/
-* https://ufla.br/
+* [Campus Virtual](https://campusvirtual.ufla.br/site_campus/ "Este é o site do campus")
+* [UFLA](https://ufla.br/)
